@@ -39,7 +39,10 @@ A simple web application to showcase and enjoy a collection of your favorite mem
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,nodejs,react,js,html,css,postgres,C++,C,nextjs,linux,mysql,sublime,vscode)](https://skillicons.dev)
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,nodejs,react,js,html,css,postgres,cplusplus,c,nextjs,linux,mysql,sublime,vscode,git,github)](https://skillicons.dev)
+
 
 ## 🌱 Currently Exploring
 

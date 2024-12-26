@@ -1,8 +1,10 @@
 # Hi, I'm Md Armanur Rahman Faisal Prince! 👋
 
-I am a passionate DevOps Intern at AppifyLab and a competitive programming enthusiast. My journey is a blend of exploring cutting-edge DevOps practices, mastering tools like Docker and NGINX, and solving over 2000 problems across various programming platforms.
+I am a passionate DevOps Intern at AppifyLab and a competitive programming enthusiast. My journey is a blend of exploring cutting-edge DevOps practices, mastering tools like Docker and NGINX, and solving problems across various programming platforms.
 
 ![arfprince's Stats](https://github-readme-stats.vercel.app/api?username=arfprince&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![arfprince's Streak](https://streak-stats.demolab.com?user=arfprince&theme=vue-dark&hide_border=true)
 
 ## 🚀 About Me
 
@@ -10,6 +12,10 @@ I am a passionate DevOps Intern at AppifyLab and a competitive programming enthu
 - 🏆 I have solved over 2000 competitive programming problems, sharpening my problem-solving skills and logical thinking.
 - 🌐 Exploring Full Stack Development, with a knack for backend frameworks like AdonisJS and frontend libraries like Next.js.
 - ✍️ I enjoy sharing knowledge and learning from the tech community.
+
+## 📊 GitHub Analytics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arfprince&layout=compact&theme=vue-dark&hide_border=true)
 
 ## My Projects
 
@@ -33,7 +39,7 @@ A simple web application to showcase and enjoy a collection of your favorite mem
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,nodejs,react,js,html,css,postgres,c++,nextjs,linux,mysql,sublime,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,nodejs,react,js,html,css,postgres,C++,C,nextjs,linux,mysql,sublime,vscode)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -48,7 +54,7 @@ A simple web application to showcase and enjoy a collection of your favorite mem
 
 ## 🏆 Achievements
 
-- 🌟 Solved over 2000 competitive programming problems, honing my analytical and coding skills.
+- 🌟 Solved over 2500 competitive programming problems, honing my analytical and coding skills.
 - 🎉 Successfully deployed production-grade applications with containerized architectures.
 
 ## 📬 Get in Touch

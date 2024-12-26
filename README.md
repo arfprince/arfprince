@@ -2,7 +2,7 @@
 
 I am a passionate DevOps Intern at AppifyLab and a competitive programming enthusiast. My journey is a blend of exploring cutting-edge DevOps practices, mastering tools like Docker and NGINX, and solving over 2000 problems across various programming platforms.
 
-![Md Armanur Rahman Faisal Prince's Stats](https://github-readme-stats.vercel.app/api?username=ezy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![arfprince's Stats](https://github-readme-stats.vercel.app/api?username=arfprince&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -43,3 +43,17 @@ I am a passionate DevOps Intern at AppifyLab and a competitive programming enthu
 - 🌐 Visit my website (coming soon): [ezyadmin.ecstaging.org](https://ezyadmin.ecstaging.org)
 
 Thanks for stopping by! Let's collaborate and build innovative solutions together. 🚀
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

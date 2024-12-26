@@ -1,6 +1,6 @@
 # Hi, I'm Md Armanur Rahman Faisal Prince! 👋
 
-I am a passionate DevOps Intern at AppifyLab and a competitive programming enthusiast. My journey is a blend of exploring cutting-edge DevOps practices, mastering tools like Docker and NGINX, and solving over 2000 problems across various programming platforms.
+I am a passionate DevOps Intern at AppifyLab and a competitive programming enthusiast. My journey is a blend of exploring cutting-edge DevOps practices, mastering tools like Docker and NGINX, and solving problems across various programming platforms.
 
 ![arfprince's Stats](https://github-readme-stats.vercel.app/api?username=arfprince&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -13,9 +13,23 @@ I am a passionate DevOps Intern at AppifyLab and a competitive programming enthu
 
 ## My Projects
 
-- **ToDo App**  
-  A complete application with a Next.js frontend, AdonisJS backend, MySQL database, and NGINX proxying.  
-  👉 Features seamless integration using Docker and NGINX Unit for routing.
+# Favourite Memes 🎉
+
+A simple web application to showcase and enjoy a collection of your favorite memes.
+
+# Features
+
+- **Meme Gallery**: Browse through a curated list of popular memes.
+- **Responsive Design**: Optimized for various devices using Tailwind CSS.
+- **Interactive UI**: Engage with memes through a user-friendly interface.
+
+# Technologies Used
+
+- **HTML**: Structure of the web application.
+- **CSS**: Styling with Tailwind CSS for responsive design.
+- **JavaScript**: Interactivity and dynamic content management.
+- **Node.js**: Backend runtime environment.
+- **PostCSS**: CSS processing tool.
 
 ## Tech Stack
 

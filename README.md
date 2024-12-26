@@ -1,6 +1,6 @@
 # Hi, I'm Md Armanur Rahman Faisal Prince! 👋
 
-I am a passionate DevOps Intern at AppifyLab and a competitive programming enthusiast. My journey is a blend of exploring cutting-edge DevOps practices, mastering tools like Docker and NGINX, and solving problems across various programming platforms.
+I am a passionate DevOps Intern at AppifyLab and a competitive programming enthusiast. My journey is a blend of exploring cutting-edge DevOps practices, mastering tools like Docker and NGINX, and solving over 2000 problems across various programming platforms.
 
 ![arfprince's Stats](https://github-readme-stats.vercel.app/api?username=arfprince&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -13,27 +13,27 @@ I am a passionate DevOps Intern at AppifyLab and a competitive programming enthu
 
 ## My Projects
 
-# Favourite Memes 🎉
+### Favourite Memes
 
 A simple web application to showcase and enjoy a collection of your favorite memes.
 
-# Features
-
+**Features**
 - **Meme Gallery**: Browse through a curated list of popular memes.
 - **Responsive Design**: Optimized for various devices using Tailwind CSS.
 - **Interactive UI**: Engage with memes through a user-friendly interface.
 
-# Technologies Used
-
+**Technologies Used**
 - **HTML**: Structure of the web application.
 - **CSS**: Styling with Tailwind CSS for responsive design.
 - **JavaScript**: Interactivity and dynamic content management.
 - **Node.js**: Backend runtime environment.
 - **PostCSS**: CSS processing tool.
 
+**Repository Link**: [Favourite Memes](https://github.com/arfprince/Favourite-Memes)
+
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,nodejs,react,js,html,css,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,nodejs,react,js,html,css,postgres,c++,nextjs,linux,mysql)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -54,20 +54,5 @@ A simple web application to showcase and enjoy a collection of your favorite mem
 ## 📬 Get in Touch
 
 - 📧 Email me: parmanurrahmanfaisal@gmail.com  
-- 🌐 Visit my website (coming soon): [ezyadmin.ecstaging.org](https://ezyadmin.ecstaging.org)
 
 Thanks for stopping by! Let's collaborate and build innovative solutions together. 🚀
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

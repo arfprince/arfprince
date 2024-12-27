@@ -17,26 +17,6 @@ I am a passionate DevOps Intern at AppifyLab and a competitive programming enthu
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arfprince&layout=compact&theme=vue-dark&hide_border=true)
 
-## My Projects
-
-### Favourite Memes
-
-A simple web application to showcase and enjoy a collection of your favorite memes.
-
-**Features**
-- **Meme Gallery**: Browse through a curated list of popular memes.
-- **Responsive Design**: Optimized for various devices using Tailwind CSS.
-- **Interactive UI**: Engage with memes through a user-friendly interface.
-
-**Technologies Used**
-- **HTML**: Structure of the web application.
-- **CSS**: Styling with Tailwind CSS for responsive design.
-- **JavaScript**: Interactivity and dynamic content management.
-- **Node.js**: Backend runtime environment.
-- **PostCSS**: CSS processing tool.
-
-**Repository Link**: [Favourite Memes](https://github.com/arfprince/Favourite-Memes)
-
 ## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=docker,nginx,nodejs,react,js,html,css,postgres,c,nextjs,linux,mysql,sublime,vscode,git,github)](https://skillicons.dev)

@@ -1,6 +1,6 @@
 # Hi, I'm Md Armanur Rahman Faisal Prince! 👋
 
-I am a passionate DevOps Intern at AppifyLab and a competitive programming enthusiast. My journey is a blend of exploring cutting-edge DevOps practices, mastering tools like Docker and NGINX, and solving problems across various programming platforms.
+I am a passionate DevOps as well as full stack engineer at AppifyLab and a competitive programming enthusiast. My journey is a blend of exploring cutting-edge DevOps practices, mastering tools like Docker and NGINX, and solving problems across various programming platforms.
 
 ![arfprince's Stats](https://github-readme-stats.vercel.app/api?username=arfprince&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 

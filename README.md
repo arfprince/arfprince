@@ -39,18 +39,9 @@ I’m a passionate **DevOps Engineer & Full Stack Developer at AppifyLab**, with
 
 ---
 
-## 🏆 Achievements
-
-- 🏅 Solved over **2500+** competitive programming problems, consistently improving algorithmic thinking and code efficiency.
-- 🚀 Successfully deployed **production-ready, Dockerized applications** with robust CI/CD workflows and NGINX-based routing.
-- 🧠 Self-hosted and managed services across cloud platforms like AWS EC2 and self-managed VPS environments.
-
----
-
 ## 📬 Get in Touch
 
 - 📧 Email: **parmanurrahmanfaisal@gmail.com**
-- 🌐 [GitHub](https://github.com/arfprince)
 
 ---
 

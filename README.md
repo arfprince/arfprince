@@ -1,45 +1,57 @@
-# Hi, I'm Md Armanur Rahman Faisal Prince! 👋
+# 👋 Hi, I'm Md Armanur Rahman Faisal Prince!
 
-I am a passionate DevOps as well as full stack engineer at AppifyLab and a competitive programming enthusiast. My journey is a blend of exploring cutting-edge DevOps practices, mastering tools like Docker and NGINX, and solving problems across various programming platforms.
-
-![arfprince's Stats](https://github-readme-stats.vercel.app/api?username=arfprince&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+I’m a passionate **DevOps Engineer & Full Stack Developer at AppifyLab**, with a strong foundation in containerized deployments, system orchestration, and full stack development. Alongside my professional journey, I’ve solved over 2500 competitive programming problems, which has sharpened my problem-solving skills and logical thinking.
 
 ![arfprince's Streak](https://streak-stats.demolab.com?user=arfprince&theme=vue-dark&hide_border=true)
 
+---
+
 ## 🚀 About Me
 
-- 🔭 I'm currently gaining hands-on experience as a DevOps Intern at AppifyLab, focusing on Docker, NGINX, and CI/CD pipelines.
-- 🏆 I have solved over 2000 competitive programming problems, sharpening my problem-solving skills and logical thinking.
-- 🌐 Exploring Full Stack Development, with a knack for backend frameworks like AdonisJS and frontend libraries like Next.js.
-- ✍️ I enjoy sharing knowledge and learning from the tech community.
+- 🎯 Currently working as a **DevOps Intern at AppifyLab**, focusing on real-world projects involving **Docker**, **NGINX**, **SSL integration**, and **CI/CD pipelines** with GitHub Actions.
+- 💻 Experienced in deploying **multi-container applications** using Docker Compose, custom networking, volume management, and scaling strategies.
+- 🌐 Skilled in dynamic routing and service orchestration using **NGINX Unit**.
+- 🔧 Hands-on with backend development using **AdonisJS** and frontend development with **React**, **Next.js**, and **Redux Toolkit**.
+- 🧠 Competitive programming enthusiast with over **2500 solved problems** across platforms like Codeforces, LeetCode, and AtCoder.
+- 📚 Constantly exploring new DevOps practices, Linux system administration, and application monitoring techniques.
 
-## 📊 GitHub Analytics
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arfprince&layout=compact&theme=vue-dark&hide_border=true)
+## ⚙️ Tech Stack
 
-## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,linux,bash,nodejs,react,nextjs,js,html,css,mysql,postgres,git,github,vscode,sublime)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,nodejs,react,js,html,css,postgres,c,nextjs,linux,mysql,sublime,vscode,git,github)](https://skillicons.dev)
-
+---
 
 ## 🌱 Currently Exploring
 
-- 🚀 **Advanced DevOps Techniques**
-  - Optimizing Docker container performance and scaling services with `docker-compose`.
-  - Leveraging NGINX Unit for efficient routing.
-  - Setting up robust CI/CD pipelines with GitHub Actions.
+- 🐳 **Advanced Docker Workflows**  
+  Optimizing container performance, customizing Docker networks, managing persistent data volumes, and implementing service health checks.
 
-- 🌐 **Networking and System Administration**
-  - Understanding Docker DNS and container communication troubleshooting.
-  - Hosting and managing services on VPS with public and private IPs.
+- 🚀 **CI/CD & Automation**  
+  Streamlining application deployment using GitHub Actions and Docker Compose for scalable and repeatable pipelines.
+
+- 🌐 **Production Deployments & VPS Management**  
+  Hosting applications on VPS with **SSL**, **domain setup**, and **UFW firewall configuration** for secure and accessible services.
+
+- 🔀 **NGINX & NGINX Unit**  
+  Proxying, load balancing, and service routing with flexible and modern configurations.
+
+---
 
 ## 🏆 Achievements
 
-- 🌟 Solved over 2500 competitive programming problems, honing my analytical and coding skills.
-- 🎉 Successfully deployed production-grade applications with containerized architectures.
+- 🏅 Solved over **2500+** competitive programming problems, consistently improving algorithmic thinking and code efficiency.
+- 🚀 Successfully deployed **production-ready, Dockerized applications** with robust CI/CD workflows and NGINX-based routing.
+- 🧠 Self-hosted and managed services across cloud platforms like AWS EC2 and self-managed VPS environments.
+
+---
 
 ## 📬 Get in Touch
 
-- 📧 Email me: parmanurrahmanfaisal@gmail.com  
+- 📧 Email: **parmanurrahmanfaisal@gmail.com**
+- 🌐 [GitHub](https://github.com/arfprince)
 
-Thanks for stopping by! Let's collaborate and build innovative solutions together. 🚀
+---
+
+Thanks for stopping by — let’s build something amazing together! 🚀

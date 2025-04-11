@@ -8,7 +8,7 @@ I’m a passionate **DevOps Engineer & Full Stack Developer at AppifyLab**, with
 
 ## 🚀 About Me
 
-- 🎯 Currently working as a **DevOps Intern at AppifyLab**, focusing on real-world projects involving **Docker**, **NGINX**, **SSL integration**, and **CI/CD pipelines** with GitHub Actions.
+- 🎯 Currently working as a **DevOps and Full Stack Engineer at AppifyLab**, focusing on real-world projects involving **Docker**, **NGINX**, **SSL integration**, and **CI/CD pipelines** with GitHub Actions.
 - 💻 Experienced in deploying **multi-container applications** using Docker Compose, custom networking, volume management, and scaling strategies.
 - 🌐 Skilled in dynamic routing and service orchestration using **NGINX Unit**.
 - 🔧 Hands-on with backend development using **AdonisJS** and frontend development with **React**, **Next.js**, and **Redux Toolkit**.
